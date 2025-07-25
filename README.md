@@ -1,6 +1,6 @@
 
-yarn add react-scripts
-yarn add @babel/runtime
+yarn install
+yarn build
 
 # react-typescript-example
 
